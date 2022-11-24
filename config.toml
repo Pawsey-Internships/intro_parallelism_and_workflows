@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "learn"
+title = "Introduction to Parallelism and Supercomputing Workflows"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+disableBreadcrumb = false
+disableNextPrev = false
+themeVariant = "red"
