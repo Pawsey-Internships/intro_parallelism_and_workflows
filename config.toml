@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://Pawsey-Internships.github.io/intro_parallelism_and_workflows" 
 languageCode = "en-us"
 theme = "learn"
 title = "Introduction to Parallelism and Supercomputing Workflows"
