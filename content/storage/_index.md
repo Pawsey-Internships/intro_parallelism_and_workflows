@@ -1,12 +1,14 @@
 +++
-title = "Storage"
+title = "Managing Data"
 date = 2022-11-24T23:35:10+08:00
 weight = 5
 chapter = true
 pre = "<b>4. </b>"
 +++
 
-## Storage location on Pawsey systems.
+# Managing Data
+
+Storage location on Pawsey systems:
 
 **Topaz:**
 
@@ -23,6 +25,8 @@ pre = "<b>4. </b>"
 **Topaz, Setonix, Nimbus and your PC:**
 
 *	Acacia object storage - High-speed object storage for hosting research data online. It will replace /group on Topaz in the near future.
+
+---
 
 * 	/home  and /scratch on Topaz may be different than /home and /scratch on Setonix.
 *	Files on /scratch are deleted automatically after 30 days from their last access.

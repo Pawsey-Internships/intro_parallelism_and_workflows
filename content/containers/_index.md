@@ -6,6 +6,8 @@ chapter = true
 pre = "<b>3. </b>"
 +++
 
+# Containers
+
 *	Containers are packages containing all the elements needed to run a process in any computing environment.
 *	This allows for the portability of code between different computers, from your laptop to a Nimbus instance or Topaz.
 *	They also support the reproducibility of results that depend on specific software versions.

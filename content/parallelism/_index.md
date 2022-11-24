@@ -5,7 +5,7 @@ chapter = true
 pre = "<b>1. </b>"
 +++
 
-### Parallel Computing
+# Parallel Computing
 
 * A type of computation in which many calculations or processors are carried out simultaneously.
 * Larger problems are divided into smaller ones, which can be solved at the same time.

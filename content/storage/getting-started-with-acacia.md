@@ -29,4 +29,4 @@ weight: 2
 
 	 mc cp <SOURCE> <TARGET>
 	
-Where `<ALIAS>` will typically be your project or user name.
+Where <ALIAS> will typically be your project or user name.

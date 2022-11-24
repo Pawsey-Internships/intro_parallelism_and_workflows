@@ -3,7 +3,7 @@ title: "Acacia Object Storage."
 weight: 1
 ---
 
-*	`/scratch` and `/software` on Setonix do not provide permanent storage space for research data. 
+*	/scratch and /software on Setonix do not provide permanent storage space for research data. 
 *	The data that needs to be stored longer than just a few weeks should be copied to the Acacia object storage service. 
 *	Acacia provides a platform that you can use to store your data as long as your Pawsey project is active. 
 

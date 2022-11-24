@@ -1,5 +1,4 @@
 ---
-title: "Why Parallel Computing?"
 date: 2022-11-24T23:35:09+08:00
 weight: 2
 ---
