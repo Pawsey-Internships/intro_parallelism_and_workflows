@@ -9,4 +9,4 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
 disableBreadcrumb = false
 disableNextPrev = false
-themeVariant = "red"
+themeVariant = "green"
