@@ -1,9 +1,9 @@
 ---
+title: "Why Parallel Computing?"
 date: 2022-11-24T23:35:09+08:00
 weight: 2
 ---
 
-### Why Parallel Computing?
 
 * In 1965, Intel co-founder Gordon Moore predicted (from 3 data points) that semiconductor density would double every 18 months. ​
 ​* Amazingly, his prediction held.​
