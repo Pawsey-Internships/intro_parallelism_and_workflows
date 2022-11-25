@@ -10,3 +10,4 @@ home = [ "HTML", "RSS", "JSON"]
 disableBreadcrumb = false
 disableNextPrev = false
 themeVariant = "green"
+disableLandingPageButton = true
